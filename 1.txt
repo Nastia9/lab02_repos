@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-1234
-qazxs
+s
 qwerty
 =======
 qw
-ffsq
-qwert
->>>>>>> branch2
+
